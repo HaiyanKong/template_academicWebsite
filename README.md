@@ -18,16 +18,15 @@ If you see your website below and want it to be removed, please email (khy6@qq.c
 
 ### 1. Single Page
 
-- Template code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+- Template code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) ☆☆☆☆☆
 
   - Lili Miao: https://lilimiaohub.github.io/
 
   - Yi Ren (任意): https://rayeren.github.io/
-
-- Template code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+- Template code: 
 
   - Guang-Teng Meng: https://guangtengmeng.github.io/
-
+  - Bruce Bao: https://psychbruce.github.io/
 - Template code: [plain-academic](https://github.com/mavroudisv/plain-academic)
 
   - Masum Hasan: https://masumhasan.net/
@@ -36,7 +35,7 @@ If you see your website below and want it to be removed, please email (khy6@qq.c
 
 ### 2. Multiple Page
 
-- Template code: [hugo-ht](https://github.com/hongtaoh/hugo-ht)
+- Template code: [hugo-ht](https://github.com/hongtaoh/hugo-ht) ☆☆☆☆☆
 
   - Hongtao Hao: https://hongtaoh.com/
 
@@ -54,7 +53,7 @@ If you see your website below and want it to be removed, please email (khy6@qq.c
 
 
 
-### 3. by Notion
+### 3. Notion Page
 
 - https://transitivebullsh.it/nextjs-notion-starter-kit
   - code: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
