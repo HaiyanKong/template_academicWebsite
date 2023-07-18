@@ -12,7 +12,7 @@ If you see your website below and want it to be removed, please email (khy6@qq.c
 
 - [2. Multiple Page](#2-multiple-page)
 - [3. by Notion](#3-by-notion)
-- [4.Group Page](#4-group-page)
+- [4. Group Page](#4-group-page)
 - [5. Interesting Page](#5-interesting-page)
 
 
