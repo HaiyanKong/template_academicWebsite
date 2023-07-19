@@ -1,8 +1,9 @@
 <h1 align="center">Academic Website Collection</h1>
 
-## Notice
+## Note
 
-If you see your website below and want it to be removed, please email (khy6@qq.com) me. 
+- If you see your website below and want it to be removed, please email (khy6@qq.com) me. 
+- This project is inspired by [hongtaoh](https://github.com/hongtaoh)/[cv_emulate](https://github.com/hongtaoh/cv_emulate)
 
 
 
@@ -15,75 +16,64 @@ If you see your website below and want it to be removed, please email (khy6@qq.c
 - [5. Interesting Page](#5-interesting-page)
 
 
-
 ### 1. Single Page
 
-- Template code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) ☆☆☆☆☆
-
+- Template: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
   - Lili Miao: https://lilimiaohub.github.io/
-
   - Yi Ren (任意): https://rayeren.github.io/
-- Template code: 
 
+- Template: [minimal](https://github.com/orderedlist/minimal)
+  - fNIRS Glossary Project: https://fnirsglossaryproject.github.io/
   - Guang-Teng Meng: https://guangtengmeng.github.io/
   - Bruce Bao: https://psychbruce.github.io/
-- Template code: [plain-academic](https://github.com/mavroudisv/plain-academic)
 
+- Template: [plain-academic](https://github.com/mavroudisv/plain-academic)
   - Masum Hasan: https://masumhasan.net/
-
 
 
 ### 2. Multiple Page
 
-- Template code: [hugo-ht](https://github.com/hongtaoh/hugo-ht) ☆☆☆☆☆
-
+- Template: [hugo-ht](https://github.com/hongtaoh/hugo-ht)
   - Hongtao Hao: https://hongtaoh.com/
 
-- Template code: [academic-website-template](https://github.com/sbryngelson/academic-website-template)
-
+- Template: [academic-website-template](https://github.com/sbryngelson/academic-website-template)
   - Pedro Gomes: https://pedro-dm-gomes.github.io/
 
-- Template code: [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-
+- Template: [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
   - Yuanning Li: https://yuanningli.github.io/
 
-- Template code: [al-folio](https://github.com/alshedivat/al-folio)
-
+- Template: [al-folio](https://github.com/alshedivat/al-folio)
   - https://alshedivat.github.io/al-folio/
-
 
 
 ### 3. Notion Page
 
-- https://transitivebullsh.it/nextjs-notion-starter-kit
-  - code: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
+- Template: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
+    - https://transitivebullsh.it/nextjs-notion-starter-kit
+  
+- Template: [awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) 
+  - https://szufrank.top/
+- Template: [nexon](https://github.com/fky2015/nexon)
+  - https://nexon-demo.vercel.app/
 
-- https://szufrank.top/
-  - code: [awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) 
-
-- https://nexon-demo.vercel.app/
-  - code: [nexon](https://github.com/fky2015/nexon)
-
-- https://www.rustc.cloud/
-  - code: [blog](https://github.com/ycjcl868/blog)
-
+- Template:  [blog](https://github.com/ycjcl868/blog)
+  - https://www.rustc.cloud/
 
 
 ### 4. Group Page
 
-- AntNLP: https://antnlp.org/
-  - code: [antnlp.github.io](https://github.com/AntNLP/antnlp.github.io)
+- Template: [antnlp.github.io](https://github.com/AntNLP/antnlp.github.io)
+  - AntNLP: https://antnlp.org/
 
-- Methods In Neuroscience At Dartmouth: http://mindsummerschool.org/
-  - code: [Summer-MIND.github.io](https://github.com/Summer-MIND/Summer-MIND.github.io)
+- Template: [Summer-MIND.github.io](https://github.com/Summer-MIND/Summer-MIND.github.io)
+  - Methods In Neuroscience At Dartmouth: http://mindsummerschool.org/- 
 
-- https://luckfairy.github.io/schoolWebsite/#/
-  - code: [schoolWebsite](https://github.com/LuckFairy/schoolWebsite)
-  
-
+- Template: [schoolWebsite](https://github.com/LuckFairy/schoolWebsite)
+  - https://luckfairy.github.io/schoolWebsite/#/
 
 
 ### 5. Interesting Page
 
-- https://staticbattery.com/
-  - code: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
+- Template: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
+  - https://staticbattery.com/
+
