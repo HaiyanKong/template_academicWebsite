@@ -1,4 +1,4 @@
-<h1 align="center">Academic Website Collection</h1>
+<h1 align="center">Personal/Group Website Collection</h1>
 
 ## Note
 
@@ -6,14 +6,15 @@
 - This project is inspired by [hongtaoh](https://github.com/hongtaoh)/[cv_emulate](https://github.com/hongtaoh/cv_emulate)
 
 
-
 ## TOC
 
 - [1. Single Page](#1-single-page)
 - [2. Multiple Page](#2-multiple-page)
-- [3. by Notion](#3-by-notion)
-- [4. Group Page](#4-group-page)
-- [5. Interesting Page](#5-interesting-page)
+- [3. Group Website](#3-group-website)
+- [4. Website Made with Notion](#4-website-made-with-notion)
+- [5. Cool Website](#5-cool-website)
+
+
 
 
 ### 1. Single Page
@@ -46,7 +47,18 @@
   - https://alshedivat.github.io/al-folio/
 
 
-### 3. Notion Page
+### 3. Group Website
+
+- Template: [antnlp.github.io](https://github.com/AntNLP/antnlp.github.io)
+  - AntNLP: https://antnlp.org/
+
+- Template: [Summer-MIND.github.io](https://github.com/Summer-MIND/Summer-MIND.github.io)
+  - Methods In Neuroscience At Dartmouth: http://mindsummerschool.org/- 
+
+- Template: [schoolWebsite](https://github.com/LuckFairy/schoolWebsite)
+  - https://luckfairy.github.io/schoolWebsite/#/
+
+### 4. Website Made with Notion
 
 - Template: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
     - https://transitivebullsh.it/nextjs-notion-starter-kit
@@ -60,19 +72,7 @@
   - https://www.rustc.cloud/
 
 
-### 4. Group Page
-
-- Template: [antnlp.github.io](https://github.com/AntNLP/antnlp.github.io)
-  - AntNLP: https://antnlp.org/
-
-- Template: [Summer-MIND.github.io](https://github.com/Summer-MIND/Summer-MIND.github.io)
-  - Methods In Neuroscience At Dartmouth: http://mindsummerschool.org/- 
-
-- Template: [schoolWebsite](https://github.com/LuckFairy/schoolWebsite)
-  - https://luckfairy.github.io/schoolWebsite/#/
-
-
-### 5. Interesting Page
+### 5. Cool Website
 
 - Template: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
   - https://staticbattery.com/
