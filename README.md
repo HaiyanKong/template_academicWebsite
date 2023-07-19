@@ -22,13 +22,14 @@
 
 - Template: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
   - Lili Miao: https://lilimiaohub.github.io/
-  - Yi Ren (任意): https://rayeren.github.io/
+  - Yi Ren: https://rayeren.github.io/
 
 - Template: [minimal](https://github.com/orderedlist/minimal)
   - fNIRS Glossary Project: https://fnirsglossaryproject.github.io/
   - Guang-Teng Meng: https://guangtengmeng.github.io/
   - Bruce Bao: https://psychbruce.github.io/
-
+  - **But it can also change to multiple page, like this one**: https://superhenrikke.com/
+  
 - Template: [plain-academic](https://github.com/mavroudisv/plain-academic)
   - Masum Hasan: https://masumhasan.net/
 
