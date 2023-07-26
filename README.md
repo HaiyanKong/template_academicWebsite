@@ -39,6 +39,13 @@
 
 
 
+Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
+
+- Yaoyao Liu: https://www.cs.jhu.edu/~yyliu/
+- theme example: https://minimal-light-theme.yliu.me/
+
+
+
 
 ### 2. Multiple Page
 
