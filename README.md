@@ -76,8 +76,15 @@ Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 
 - Template/code: https://github.com/binokochumolvarghese/lightbi-hugo
+  	- https://lightbi-hugo-theme.netlify.app/
 
-​	- https://lightbi-hugo-theme.netlify.app/
+
+
+- Template/code: [congo](https://github.com/jpanther/congo)
+  - https://jpanther.github.io/congo/
+  - https://antoinesoetewey.com/
+
+
 
 ### 3. Group Website
 
