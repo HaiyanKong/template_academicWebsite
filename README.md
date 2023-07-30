@@ -13,7 +13,7 @@
 - [2. Multiple Page](#2-multiple-page)
 - [3. Group Website](#3-group-website)
 - [4. Website Made with Notion](#4-website-made-with-notion)
-- [5. Cool Website (Non-Academic)](#5-cool-website-non-academic)
+- [5. Other](#5-other)
 
 
 
@@ -86,6 +86,21 @@ Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 
 
+- Template/code: [hugo-coder](https://github.com/luizdepra/hugo-coder)
+  - https://hugo-coder.netlify.app/
+
+
+
+- Template/code: [hugo-serif-theme](https://github.com/zerostaticthemes/hugo-serif-theme)
+  - https://hugo-serif.netlify.app/
+
+
+
+- Template/code: [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme)
+  - https://hugo-hero.netlify.app/
+
+
+
 ### 3. Group Website
 
 - Template/code: [antnlp.github.io](https://github.com/AntNLP/antnlp.github.io)
@@ -140,9 +155,7 @@ Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 
 
-
-### 5. Cool Website Non Academic
+### 5. Other
 
 - Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
   - https://staticbattery.com/
-
