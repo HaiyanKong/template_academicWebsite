@@ -128,6 +128,11 @@ Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 
 
+- Template/code: [hinode](https://github.com/gethinode/hinode)
+  - https://gethinode.com/
+
+
+
 ### 4. Website Made with Notion
 
 - Template/code: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
