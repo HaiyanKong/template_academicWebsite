@@ -164,3 +164,8 @@ Template/code: [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 - Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
   - https://staticbattery.com/
+
+
+
+- Jamstack Themes
+  - https://jamstackthemes.dev/
