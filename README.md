@@ -2,7 +2,7 @@
 
 ## Note
 
-- If you see your website below and want it to be removed, please email (khy6@qq.com) me. 
+- If you see your website below and want it to be removed, please email (haiyankong[at]hotmail.com) me. 
 - This project is inspired by [hongtaoh](https://github.com/hongtaoh)/[cv_emulate](https://github.com/hongtaoh/cv_emulate)
 
 
