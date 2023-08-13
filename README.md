@@ -60,9 +60,6 @@
   - https://jpanther.github.io/congo/
   - https://antoinesoetewey.com/
 
-- Template/code: [hugo-coder](https://github.com/luizdepra/hugo-coder)
-  - https://hugo-coder.netlify.app/
-
 - Template/code: [hugo-serif-theme](https://github.com/zerostaticthemes/hugo-serif-theme)
   - https://hugo-serif.netlify.app/
 
@@ -76,7 +73,7 @@
   - AntNLP: https://antnlp.org
   
 - Template/code: [Summer-MIND.github.io](https://github.com/Summer-MIND/Summer-MIND.github.io)
-  - Methods In Neuroscience At Dartmouth: http://mindsummerschool.org/- 
+  - Methods In Neuroscience At Dartmouth: http://mindsummerschool.org
 
 - Template/code: [schoolWebsite](https://github.com/LuckFairy/schoolWebsite)
   - https://luckfairy.github.io/schoolWebsite/#/
