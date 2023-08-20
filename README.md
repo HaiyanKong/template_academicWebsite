@@ -87,6 +87,9 @@
 - Template/code: [hinode](https://github.com/gethinode/hinode)
   - https://gethinode.com/
 
+- Template/code: [educenter-hugo](https://github.com/themefisher/educenter-hugo)
+  - not free
+  - https://jamstack.club/demo/theme/hugo-educenter/
 
 ### 4. Website Made with Notion
 
@@ -109,6 +112,8 @@
 ### 5. Other
 
 - Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
+
+- Many Theme Categories: [Best Hugo Themes](https://www.besthugothemes.com/)
   - https://staticbattery.com/
 
 
