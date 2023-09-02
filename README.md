@@ -111,12 +111,12 @@
 
 ### 5. Other
 
-- Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe)
+- Template/code: [compose](https://github.com/onweru/compose) Document/Book
+
+- Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe) Picture
 
 - Many Theme Categories: [Best Hugo Themes](https://www.besthugothemes.com/)
-  - https://staticbattery.com/
-
-
+  - https://staticbattery.com/   A list of most the popular Hugo themes
 
 - Jamstack Themes
-  - https://jamstackthemes.dev/
+  - https://jamstackthemes.dev/   A list of open-source themes
