@@ -34,6 +34,9 @@
   - Yaoyao Liu: https://www.cs.jhu.edu/~yyliu/
   - theme example: https://minimal-light-theme.yliu.me/
 
+- Template/code: https://github.com/jjmcfadyen/jjmcfadyen.github.io
+  - Jessica McFadyen: https://jjmcfadyen.github.io
+
 
 ### 2. Multiple Page
 
