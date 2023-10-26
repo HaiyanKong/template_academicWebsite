@@ -111,6 +111,11 @@
 - Template/code:  [notionic](https://github.com/izuolan/notionic)
   - https://zuolan.me/
 
+- Template/code: https://bedford.io/misc/about/
+  - https://www.allanlab.org/aboutwebsite.html
+  - [sanderslab.github.io](https://github.com/sanderslab/sanderslab.github.io)
+  - [mdlab.github.io](https://github.com/lmdlab/lmdlab.github.io): https://lmdlab.github.io/
+
 
 ### 5. Other
 
