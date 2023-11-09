@@ -17,6 +17,10 @@
 
 ### 1. Single Page
 
+- Template/code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+  - Lili Miao: https://lilimiaohub.github.io/
+  - Yi Ren: https://rayeren.github.io/
+
 - Template/code: [minimal](https://github.com/orderedlist/minimal)
   - fNIRS Glossary Project: https://fnirsglossaryproject.github.io/
   - **But it can also change to multiple page, like this one**: https://superhenrikke.com/
@@ -39,10 +43,6 @@
 
 
 ### 2. Multiple Page
-
-- Template/code: [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
-  - Lili Miao: https://lilimiaohub.github.io/
-  - Yi Ren: https://rayeren.github.io/
 
 - Template/code: [hugo-ht](https://github.com/hongtaoh/hugo-ht)
   - Hongtao Hao: https://hongtaoh.com/
