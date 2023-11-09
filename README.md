@@ -27,6 +27,12 @@
   - Bruce Bao: https://psychbruce.github.io/
   - **But it can also change to multiple page, like this one**: https://superhenrikke.com/
 
+- Template/code: [jonbarron](https://github.com/jonbarron/website)
+  - https://jonbarron.info/
+  - https://zhangyuanhan-ai.github.io/
+  - https://cliangyu.com/
+
+
 - Template/code: [plain-academic](https://github.com/mavroudisv/plain-academic)
   - Masum Hasan: https://masumhasan.net/
 
