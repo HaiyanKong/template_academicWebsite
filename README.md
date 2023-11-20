@@ -123,12 +123,18 @@
 
 ### 5. Other
 
-- Template/code: [compose](https://github.com/onweru/compose) Document/Book
+- Many Theme Categories
+  - Best Hugo Themes: https://www.besthugothemes.com/
+  - A list of most the popular Hugo themes: https://staticbattery.com/
+  - Jamstack Themes(A list of open-source themes): https://jamstackthemes.dev/
 
-- Template/code: [gallerydeluxe](https://github.com/bep/gallerydeluxe) Picture
+- Document/Book
+  - code: https://github.com/onweru/compose
 
-- Many Theme Categories: [Best Hugo Themes](https://www.besthugothemes.com/)
-  - https://staticbattery.com/   A list of most the popular Hugo themes
+- Picture
+  - code: https://github.com/bep/gallerydeluxe
 
-- Jamstack Themes
-  - https://jamstackthemes.dev/   A list of open-source themes
+- hugo-paged
+  - code: https://github.com/yihui/hugo-paged
+  - demo: https://paged.yihui.org/
+  - using: https://yihui.org/
