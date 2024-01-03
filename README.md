@@ -11,8 +11,7 @@
 - [1. Single Page](#1-single-page)
 - [2. Multiple Page](#2-multiple-page)
 - [3. Group Website](#3-group-website)
-- [4. Website Made with Notion](#4-website-made-with-notion)
-- [5. Other](#5-other)
+- [4. Other](#4-other)
 
 
 ### 1. Single Page
@@ -103,25 +102,7 @@
   - not free
   - https://jamstack.club/demo/theme/hugo-educenter/
 
-### 4. Website Made with Notion
-
-- Template/code: [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
-    - https://transitivebullsh.it/nextjs-notion-starter-kit
-
-- Template/code: [awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) 
-  - https://szufrank.top/
-
-- Template/code: [nexon](https://github.com/fky2015/nexon)
-  - https://nexon-demo.vercel.app/
-
-- Template/code:  [blog](https://github.com/ycjcl868/blog)
-  - https://www.rustc.cloud/
-
-- Template/code:  [notionic](https://github.com/izuolan/notionic)
-  - https://zuolan.me/
-
-
-### 5. Other
+### 4. Other
 
 - Many Theme Categories
   - Best Hugo Themes: https://www.besthugothemes.com/
